@@ -1,3 +1,7 @@
+* {
+  font-family: sans-serif;
+}
+
 html {
   height: 100%;
   width: 100%;
@@ -5,13 +9,14 @@ html {
 
 body {
   text-align: center;
-  background-color: #bfbfbf;
+  background-color: #cccccc;
 }
 
 #box {
-  padding:20px;
-  margin:30px auto; 
-  max-width:70%;
-  border:1px solid #000000;
-  border-radius:5px; 
+  padding: 20px;
+  margin: 30px auto;
+  max-width: 70%;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  background-color: #e6e6e6;
 }
