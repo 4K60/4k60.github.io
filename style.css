@@ -9,7 +9,7 @@ html {
 
 body {
   text-align: center;
-  background-color: #000000;
+  background-color: #303030;
 }
 
 h1 {
@@ -23,12 +23,17 @@ h1 {
   margin-bottom: 0px;
 }
 
+.hyperlinkimage {
+  max-width: 128px;
+  margin: 5px;
+}
+
 #box {
   padding: 20px;
   margin: 20px auto;
   margin-top: 0px;
   max-width: 320px;
-  border: 1px solid #000000;
-  border-radius: 5px;
-  background-color: #808080;
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  background-color: #606060;
 }
